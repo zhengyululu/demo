@@ -1,0 +1,254 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*header开始*/
+.header{
+	height: 173px;
+	background-color:#eeeeef;
+}
+.logo{
+	padding-top: 30px;
+	text-align: center;
+	height:95px;
+}
+.nav{
+	width:750px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 23px;
+}
+.nav li{
+	float: left;
+	height:45px;
+	padding: 0 30px;
+	line-height:45px; 
+    background: url(../images/bian.png) no-repeat right center;
+}
+.nav li a{
+	border-bottom: 3px solid #1e50ae;
+	height: 42px;
+	display:block;
+}
+.nav li:last-child{
+	background: none;
+}
+/*header结束*/
+/*banner开始*/
+.banner{
+	height:405px;
+	text-align: center;
+}
+.serve{
+	width: 1060px;
+	height: 600px;
+	margin:0 auto;
+	background: white;
+}
+.topic{
+	width:1060px;
+	height:237px;
+	text-align: center;
+	display:block;
+	padding-top:65px;
+}
+.a{
+	margin-top:28px;
+}
+.icon1{
+	width:1060px;
+	height:369px;
+	float:left;
+}
+.b{
+	width:265px;
+	height:369px;
+	float:left;
+}
+.icon2{
+	width:1060px;
+	height:231px;
+	float:left;
+}
+.c{
+    width:265px;
+	height:231px;
+	float:left;
+}
+.d{
+	padding-left: 106px;
+}
+.e{
+	padding-left:86px;
+	color:#85868a;
+}
+.f{
+	padding-left: 0px;
+	color:#85868a;
+}
+.bac{
+	width:100%;
+	height:500px;
+	margin-left: 0px;
+	position: absolute;
+	text-align: center;
+	margin-top: 50px;
+}
+.topic1{
+    height:873px;
+	width:1560px;
+	margin:0 auto;
+}
+.topic2{
+    width:1560px;
+	height:155px;
+	text-align: center;
+	padding-top: 65px;
+	display: block;
+	position: absolute;
+	left:338px;
+	top:2000px;
+}
+.p{
+	position: absolute;
+	left:520px;
+	top:2180px;
+	margin: 0 auto;
+	text-align: center;
+}
+.q{
+	width:1500px;
+	height:190px;
+	margin-left: 100px;
+}
+.s{
+	width:1500px;
+	left:1200px;
+	top:2280px;
+	position:absolute;
+}
+.t{
+	width:600px;
+	height:360px;
+	position: absolute;
+	left:500px;
+	top:2600px;
+}
+.r{
+	border-bottom: 1px dashed gray;
+	padding-bottom:15px;
+	color:gray;
+	font-size: 14px;
+	font-family: 微软雅黑;
+}
+.u{
+	width:550px;
+	height:360px;
+	position: absolute;
+	left:1200px;
+	top:2600px;
+}
+.v{
+	width:1850px;
+	height:103px;
+	background: #eeeeef;
+	position: absolute;
+	left:350px;
+	top:2850px;
+}
+.w{
+	width:1560px;
+	height:103px;
+	float:left;
+	margin-top:30px;
+	padding-left: 100px;
+}
+.x{
+	width: 300px;
+	height:103px;
+	float:left;
+	padding:10px 30px;
+	background: url(bianlan.png) no-repeat right center;
+}
+.y{
+	float:left;
+}
+.last1{
+	height:259px;
+	width:1560px;
+	float:left;
+	background: black;
+	border-bottom:2px solid gray;
+	position: absolute;
+	left:300px;
+	top:2957px;
+}
+.last2{
+	height:259px;
+	width:615px;
+	float:left;
+	padding-left: 133px;
+	padding-top: 60px;
+}
+.last3{
+	height:259px;
+	width:79px;
+	float:left;
+	margin-left: 50px;
+}
+.last3 ul li{
+	color:white;
+}
+.last4{
+	padding-top:4px;
+}
+.last5{
+	position: absolute;
+	left:1000px;
+	top:0px;
+}
+.last6{
+	width:1560px;
+	height:123px;
+	background: black;
+	border-bottom:2px solid gray;
+	position: absolute;
+	left:300px;
+	top:3200px;
+}
+.last{
+	width:1100px;
+	height:45px;
+	background:black;
+	margin:0 auto;
+	padding-top: 40px;
+}
+.last li{
+	float:left;
+	height:45px;
+	padding: 0 30px;
+	line-height:45px;
+	background: url(bianlan.png) no-repeat right center;
+}
+.last li a {
+	display: block;
+	height:42px;
+	padding-bottom: 0px;
+	text-decoration: none;
+	color: white;
+}
+.last li:last-child{
+	background: none;
+}
+.laster{
+	position: absolute;
+	left:620px;
+	top:0px;
+}
